@@ -1,0 +1,22 @@
+{
+  "name": "almaaly-realestate",
+  "version": "1.0.0",
+  "description": "Al maaly Realstate Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-sallam/almaaly-realestate.git"
+  },
+  "author": "Ahmed Sallam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-sallam/almaaly-realestate/issues"
+  },
+  "homepage": "https://github.com/ahmed-sallam/almaaly-realestate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
